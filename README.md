@@ -55,20 +55,60 @@
 
 ### 🧰 Core Skills Ecosystem
 
+<!-- Mind Map Image -->
 <div align="center">
   <a href="https://github.com/Abhi2790/BIO/blob/main/MAP.png">
-    <img src="https://github.com/Abhi2790/BIO/blob/main/MAP.png?raw=true" width="70%" alt="Abhishek's Tech Stack Mind Map" />
+    <img 
+      src="https://github.com/Abhi2790/BIO/blob/main/MAP.png?raw=true"
+      width="70%"
+      alt="Abhishek's Tech Stack Mind Map"
+    />
   </a>
 </div>
 
 <br>
+
+<!-- Centered Table with Same Visual Width -->
 <div align="center">
-  <a
-| 💻 Languages | 🏗️ Frameworks | 🛠️ Tools | 🧠 Concepts |
-|:------------:|:-------------:|:--------:|:-----------:|
-| **Python 🐍** <br> C++ <br> Java | **OpenCV** <br> LangChain <br>Tomcat server <br> scikit-learn <br> OpenCV  | **Hugging Face** <br> Ollama <br> Mediapipe | **LLM Apps** <br> RAG Architecture <br> Computer Vision <br> NLP & EDA <br> CNN & RNN|
-    /a>
+
+<table width="70%">
+  <tr>
+    <th align="center">💻 Languages</th>
+    <th align="center">🏗️ Frameworks</th>
+    <th align="center">🛠️ Tools</th>
+    <th align="center">🧠 Concepts</th>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <b>Python 🐍</b><br>
+      C++<br>
+      Java
+    </td>
+    <td align="center">
+      OpenCV<br>
+      LangChain<br>
+      Tomcat Server<br>
+      Scikit-learn
+    </td>
+    <td align="center">
+      Hugging Face<br>
+      Ollama<br>
+      MediaPipe
+    </td>
+    <td align="center">
+      LLM Apps<br>
+      RAG Architecture<br>
+      Computer Vision<br>
+      NLP & EDA<br>
+      CNN & RNN
+    </td>
+  </tr>
+</table>
+
 </div>
+
+
 ---
 
 ### 🚀 My Philosophy
