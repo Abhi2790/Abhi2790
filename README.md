@@ -114,7 +114,10 @@
 ### 🚀 My Philosophy
 
 <div align="center">
-  <i>“AI isn’t about replacing humans — it’s about amplifying what’s possible.”</i>
+  <i>“AI isn’t about replacing humans — it’s about amplifying what’s possible.”
+    
+  </i>
+  
 </div>
 
 I’m driven by curiosity and a passion for **building things that think**.  
