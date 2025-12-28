@@ -48,7 +48,10 @@
 - GitHub: *https://github.com/Abhi2790*
 - LinkedIn: *www.linkedin.com/in/abhishek-461295338*
 
-⚡ *"Learning by building real-world projects."*
+<p align="center" style="font-size: 1.1em;">
+  ⚡ <i>"Learning by building real-world projects."</i>
+</p>
+
 
 ---
 
@@ -117,7 +120,7 @@
 </div>
 <br>
 I’m driven by curiosity and a passion for **building things that think**.  
-Whether it’s a neural model or a IOT device, I believe learning happens best by **doing**.  
+Whether it’s a neural model or a IOT device, I believe learning happens best by doing**.  
 
 ---
 
