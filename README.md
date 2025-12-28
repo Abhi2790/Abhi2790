@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=800&color=ff0800center=true&vCenter=true&width=650&lines=Hey+👋+I'm+Abhishek+Kumar;AI+%26+ML+DEV;IOT DEV+%7C+Generative+AI+Explorer;Building+AI+Models+&IOT Projects" alt="Typing SVG" />
-  
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=Hey+👋+I'm+Abhishek+Kumar;AI+%26+ML+Developer+🤖;IoT+Developer+🔌;Generative+AI+Explorer+🧠;Building+AI+Models+%26+IoT+Systems+🚀"
+    alt="Typing SVG"/>
+
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lvdWpuOWtnNGd5bzdrbWZpMTc4OG5rdXh5emltaDMxcHozZnMwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YcXkgqd7wfSrbc82Ya/giphy.gif" width="140" alt="AI wave gif" />
   
   <br>
