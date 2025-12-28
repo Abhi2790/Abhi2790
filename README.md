@@ -3,7 +3,7 @@
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=Hey+👋+I'm+Abhishek+Kumar;AI+%26+ML+Developer+🤖;IoT+Developer+🔌;Generative+AI+Explorer+🧠;Building+AI+Models+%26+IoT+Systems+🚀"
     alt="Typing SVG"/>
 
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lvdWpuOWtnNGd5bzdrbWZpMTc4OG5rdXh5emltaDMxcHozZnMwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YcXkgqd7wfSrbc82Ya/giphy.gif" width="200" alt="AI wave gif" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lvdWpuOWtnNGd5bzdrbWZpMTc4OG5rdXh5emltaDMxcHozZnMwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YcXkgqd7wfSrbc82Ya/giphy.gif" width="300" alt="AI wave gif" />
   
   <br>
 
@@ -15,9 +15,9 @@
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 
-## 👋 Hi, I'm Abhishek Kumar
+###👋 Hi, I'm Abhishek Kumar
 
 🎓 Engineering student passionate about **Software Development, Data Science, and Embedded Systems**  
 💻 I enjoy building projects that combine **Hardware + Software**  
@@ -49,7 +49,7 @@
 - LinkedIn: *www.linkedin.com/in/abhishek-461295338*
 
 ⚡ *"Learning by building real-world projects."*
-
+---
 
 ### 🧰 Core Skills Ecosystem
 
@@ -112,12 +112,9 @@
 ### 🚀 My Philosophy
 
 <div align="center">
-  <i>“AI isn’t about replacing humans — it’s about amplifying what’s possible.”
-    
-  </i>
-  
+  <i>“AI isn’t about replacing humans — it’s about amplifying what’s possible.”</i>
 </div>
-
+<br>
 I’m driven by curiosity and a passion for **building things that think**.  
 Whether it’s a neural model or a IOT device, I believe learning happens best by **doing**.  
 
