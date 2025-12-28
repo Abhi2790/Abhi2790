@@ -62,11 +62,11 @@
 </div>
 
 <br>
-
+<div align="center">
 | 💻 Languages | 🏗️ Frameworks | 🛠️ Tools | 🧠 Concepts |
 |:------------:|:-------------:|:--------:|:-----------:|
 | **Python 🐍** <br> C++ <br> Java | **OpenCV** <br> LangChain <br>Tomcat server <br> scikit-learn <br> OpenCV  | **Hugging Face** <br> Ollama <br> Mediapipe | **LLM Apps** <br> RAG Architecture <br> Computer Vision <br> NLP & EDA <br> CNN & RNN|
-
+</div>
 ---
 
 ### 🚀 My Philosophy
