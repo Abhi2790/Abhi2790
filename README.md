@@ -17,7 +17,7 @@
 
 ## 🧠 About Me
 
-###👋 Hi, I'm Abhishek Kumar
+### 👋 Hi, I'm Abhishek Kumar
 
 🎓 Engineering student passionate about **Software Development, Data Science, and Embedded Systems**  
 💻 I enjoy building projects that combine **Hardware + Software**  
@@ -49,6 +49,7 @@
 - LinkedIn: *www.linkedin.com/in/abhishek-461295338*
 
 ⚡ *"Learning by building real-world projects."*
+
 ---
 
 ### 🧰 Core Skills Ecosystem
