@@ -57,7 +57,7 @@
 
 <div align="center">
   <a href="https://github.com/Abhi2790/BIO/blob/main/MAP.png">
-    <img src="https://github.com/Abhi2790/BIO/blob/main/MAP.png?raw=true" width="100%" alt="Abhishek's Tech Stack Mind Map" />
+    <img src="https://github.com/Abhi2790/BIO/blob/main/MAP.png?raw=true" width="70%" alt="Abhishek's Tech Stack Mind Map" />
   </a>
 </div>
 
