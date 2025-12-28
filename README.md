@@ -3,7 +3,7 @@
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=Hey+👋+I'm+Abhishek+Kumar;AI+%26+ML+Developer+🤖;IoT+Developer+🔌;Generative+AI+Explorer+🧠;Building+AI+Models+%26+IoT+Systems+🚀"
     alt="Typing SVG"/>
 
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lvdWpuOWtnNGd5bzdrbWZpMTc4OG5rdXh5emltaDMxcHozZnMwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YcXkgqd7wfSrbc82Ya/giphy.gif" width="300" alt="AI wave gif" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lvdWpuOWtnNGd5bzdrbWZpMTc4OG5rdXh5emltaDMxcHozZnMwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YcXkgqd7wfSrbc82Ya/giphy.gif" width="200" alt="AI wave gif" />
   
   <br>
 
@@ -134,5 +134,5 @@ Whether it’s a neural model or a IOT device, I believe learning happens best b
 
 <br>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=@Abhi2790-hub&style=flat-square&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=https://github.com/Abhi2790-hub&style=flat-square&color=blueviolet" alt="Profile Views" />
 </div>
