@@ -134,5 +134,5 @@ Whether it’s a neural model or a IOT device, I believe learning happens best b
 
 <br>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=https://github.com/Abhi2790-hub&style=flat-square&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Abhi2790-hub&style=flat-square&color=blueviolet" alt="Profile Views" />
 </div>
