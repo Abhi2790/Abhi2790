@@ -1,16 +1,15 @@
-<div align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=900&color=00E5FF&left=true&vCenter=true&width=750&lines=Hey+👋+I'm+Abhishek+Kumar;AI+%26+ML+Developer+🤖;IoT+Developer+🔌;Generative+AI+Explorer+🧠;Building+AI+Models+%26+IoT+Systems+🚀"
-    alt="Typing SVG"/>
+<div align="left">
 
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=800&lines=Hey+👋+I'm+Abhishek+Kumar;AI+%26+ML+Developer+🤖;IoT+Developer+🔌;Generative+AI+Explorer+🧠;Building+AI+Models+%26+IoT+Systems+🚀"
+    alt="Typing SVG"/>
+</div>
 <div align="right">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lvdWpuOWtnNGd5bzdrbWZpMTc4OG5rdXh5emltaDMxcHozZnMwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YcXkgqd7wfSrbc82Ya/giphy.gif" width="180" alt="AI wave gif"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lvdWpuOWtnNGd5bzdrbWZpMTc4OG5rdXh5emltaDMxcHozZnMwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YcXkgqd7wfSrbc82Ya/giphy.gif" width="150" alt="AI wave gif"/>
 </div>
 
-### Hi, I'm Abhishek Kumar
-
-🎓 Engineering student passionate about **Software Development, Data Science, and Embedded Systems**
-💻 I enjoy building projects that combine **Hardware + Software**
+🎓 Engineering student passionate about **Software Development, Data Science, and Embedded Systems**<br>
+💻 I enjoy building projects that combine **Hardware + Software**<br>
 🚀 Currently exploring **Machine Learning, IoT, and Database Systems**
 
 ---
@@ -119,8 +118,6 @@ alt="Abhishek's Tech Stack Mind Map"/>
 
 </div>
 
----
-
 ## 🚀 My Philosophy
 
 <div align="center">
@@ -133,8 +130,6 @@ alt="Abhishek's Tech Stack Mind Map"/>
 
 </div>
 
-Whether it’s a neural model or an IoT device, I believe learning happens best by doing.
-
 ---
 
 ## 🌐 Connect With Me
@@ -143,28 +138,19 @@ Whether it’s a neural model or an IoT device, I believe learning happens best 
 
 *I'm always open to exciting data projects, collaborations, and full-time opportunities.*
 
-<br>
-
 <a href="mailto:ak7321886958@gmail.com">
 <img src="https://img.shields.io/badge/📧%20Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
- 
 
 <a href="https://www.linkedin.com/in/abhishek-461295338/">
 <img src="https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
- 
-
 <a href="https://github.com/Abhi2790">
 <img src="https://img.shields.io/badge/💻%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br><br>
-
-### 🐍 Contribution Snake
-
+<br>
 <picture>
 
 <source media="(prefers-color-scheme: dark)"
@@ -180,17 +166,11 @@ src="https://raw.githubusercontent.com/Abhi2790/Abhi2790/output/github-contribut
 </picture>
 
 </div>
-
----
-
-<div align="center">
-
-<img 
-src="https://komarev.com/ghpvc/?username=Abhi2790&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"
-alt="Profile Views"/>
-
-</div>
-
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,50:764ba2,100:667eea&height=120&section=footer"/>
+<div align="center">
+<img 
+src="https://komarev.com/ghpvc/?username=Abhi2790&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"
+alt="Profile Views"/>
+</div>
