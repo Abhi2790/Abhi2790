@@ -1,16 +1,24 @@
-<div align="left">
+<div align="center">
 
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=800&lines=Hey+👋+I'm+Abhishek+Kumar;AI+%26+ML+Developer+🤖;IoT+Developer+🔌;Generative+AI+Explorer+🧠;Building+AI+Models+%26+IoT+Systems+🚀"
-    alt="Typing SVG"/>
-</div>
-<div align="right">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lvdWpuOWtnNGd5bzdrbWZpMTc4OG5rdXh5emltaDMxcHozZnMwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YcXkgqd7wfSrbc82Ya/giphy.gif" width="150" alt="AI wave gif"/>
+<img
+  src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+Im+Abhishek+Kumar;AI+%26+ML+Developer+%F0%9F%A4%96;IoT+Developer+%F0%9F%94%8C;Generative+AI+Explorer+%F0%9F%A7%A0;Building+AI+Models+%26+IoT+Systems+%F0%9F%9A%80"
+  width="700"
+  alt="Typing SVG"
+  align="left"
+/>
+
+<img
+  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lvdWpuOWtnNGd5bzdrbWZpMTc4OG5rdXh5emltaDMxcHozZnMwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YcXkgqd7wfSrbc82Ya/giphy.gif"
+  width="170"
+  alt="AI wave gif"
+  align="middle"
+/>
+
 </div>
 
-🎓 Engineering student passionate about **Software Development, Data Science, and Embedded Systems**<br>
-💻 I enjoy building projects that combine **Hardware + Software**<br>
-🚀 Currently exploring **Machine Learning, IoT, and Database Systems**
+🎓 Engineering student passionate about Software Development, Data Science, and Embedded Systems <br>
+💻 I enjoy building projects that combine Hardware + Software <br>
+🚀 Currently exploring Machine Learning, IoT, and Database Systems
 
 ---
 
@@ -18,7 +26,7 @@
 
 <div align="center">
 
-### 📊 Data & Programming
+### 📊 Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
@@ -130,8 +138,6 @@ alt="Abhishek's Tech Stack Mind Map"/>
 
 </div>
 
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -150,7 +156,6 @@ alt="Abhishek's Tech Stack Mind Map"/>
 <img src="https://img.shields.io/badge/💻%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br>
 <div align="center">
 
 <h3>🐍 Contribution Snake</h3>
@@ -176,6 +181,7 @@ alt="Abhishek's Tech Stack Mind Map"/>
 
 </div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,50:764ba2,100:667eea&height=120&section=footer"/>
+
 <div align="center">
 <img 
 src="https://komarev.com/ghpvc/?username=Abhi2790&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"
