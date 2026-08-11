@@ -6,9 +6,6 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lvdWpuOWtnNGd5bzdrbWZpMTc4OG5rdXh5emltaDMxcHozZnMwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YcXkgqd7wfSrbc82Ya/giphy.gif" width="200" alt="AI wave gif" />
   
   <br>
-
-  <!-- <a href="https://www.rohit.monster/">
-    <img src="https://img.shields.io/badge/🚀_View_Portfolio-ROHIT.MONSTER-7000FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"> -->
   </a>
 </div>
 <br>
@@ -127,12 +124,13 @@ Whether it’s a neural model or a IOT device, I believe learning happens best b
 ### 🌐 Connect With Me
 
 <div align="center">
+  
+*I'm always open to exciting data projects, collaborations, and full-time opportunities.*
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ak7321886958@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/abhishek-461295338)
-<!-- [![Portfolio Badge](https://img.shields.io/badge/Portfolio-rohit.monster-7000FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.rohit.monster/) -->
-<!-- [![Streamlit Badge](https://img.shields.io/badge/Streamlit_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://share.streamlit.io/user/randomrohit-hub) -->
 
+![Snake animation](https://raw.githubusercontent.com/Abhi2790/Abhi2790/output/github-contribution-grid-snake-dark.svg)
 </div>
 
 <br>
