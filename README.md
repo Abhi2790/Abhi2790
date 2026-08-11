@@ -9,7 +9,7 @@
 
 <img
   src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lvdWpuOWtnNGd5bzdrbWZpMTc4OG5rdXh5emltaDMxcHozZnMwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YcXkgqd7wfSrbc82Ya/giphy.gif"
-  width="150"
+  width="170"
   alt="AI wave gif"
   align="right"
 />
@@ -17,6 +17,7 @@
 <br> 🎓 Engineering student passionate about Software Development, Data Science, and Embedded Systems <br>
 💻 I enjoy building projects that combine Hardware + Software <br>
 🚀 Currently exploring Machine Learning, IoT, and Database Systems
+<br><br><br>
 
 ---
 
