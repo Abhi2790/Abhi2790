@@ -4,19 +4,17 @@
   src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+Im+Abhishek+Kumar;AI+%26+ML+Developer+%F0%9F%A4%96;IoT+Developer+%F0%9F%94%8C;Generative+AI+Explorer+%F0%9F%A7%A0;Building+AI+Models+%26+IoT+Systems+%F0%9F%9A%80"
   width="700"
   alt="Typing SVG"
-  align="left"
+  align="middle"
 />
 
 <img
   src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lvdWpuOWtnNGd5bzdrbWZpMTc4OG5rdXh5emltaDMxcHozZnMwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YcXkgqd7wfSrbc82Ya/giphy.gif"
-  width="170"
+  width="150"
   alt="AI wave gif"
-  align="middle"
+  align="right"
 />
-
 </div>
-
-🎓 Engineering student passionate about Software Development, Data Science, and Embedded Systems <br>
+<br> 🎓 Engineering student passionate about Software Development, Data Science, and Embedded Systems <br>
 💻 I enjoy building projects that combine Hardware + Software <br>
 🚀 Currently exploring Machine Learning, IoT, and Database Systems
 
