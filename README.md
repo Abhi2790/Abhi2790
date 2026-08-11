@@ -154,7 +154,6 @@ alt="Abhishek's Tech Stack Mind Map"/>
 <a href="https://github.com/Abhi2790">
 <img src="https://img.shields.io/badge/💻%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <div align="center">
 
 <h3>🐍 Contribution Snake</h3>
@@ -162,12 +161,12 @@ alt="Abhishek's Tech Stack Mind Map"/>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Abhi2790/Abhi2790/output/github-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/Abhi2790/Abhi2790/output/github-contribution-grid-snake-dark.svg"
   />
 
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Abhi2790/Abhi2790/output/github-snake.svg"
+    srcset="https://raw.githubusercontent.com/Abhi2790/Abhi2790/output/github-contribution-grid-snake.svg"
   />
 
   <img
