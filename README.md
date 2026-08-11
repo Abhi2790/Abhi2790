@@ -151,22 +151,30 @@ alt="Abhishek's Tech Stack Mind Map"/>
 </a>
 
 <br>
+<div align="center">
+
+<h3>🐍 Contribution Snake</h3>
+
 <picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Abhi2790/Abhi2790/output/github-contribution-grid-snake-dark.svg"
+  />
 
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/Abhi2790/Abhi2790/output/github-contribution-grid-snake-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Abhi2790/Abhi2790/output/github-contribution-grid-snake.svg"
+  />
 
-<source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/Abhi2790/Abhi2790/output/github-contribution-grid-snake.svg">
-
-<img 
-alt="GitHub Contribution Snake Animation"
-src="https://raw.githubusercontent.com/Abhi2790/Abhi2790/output/github-contribution-grid-snake.svg">
+  <img
+    src="https://raw.githubusercontent.com/Abhi2790/Abhi2790/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
 
 </picture>
 
 </div>
-<br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,50:764ba2,100:667eea&height=120&section=footer"/>
 <div align="center">
