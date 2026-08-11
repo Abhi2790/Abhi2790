@@ -158,16 +158,16 @@ alt="Abhishek's Tech Stack Mind Map"/>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Abhi2790/Abhi2790/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/Abhi2790/Abhi2790/output/github-snake-dark.svg"
   />
 
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Abhi2790/Abhi2790/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/Abhi2790/Abhi2790/output/github-snake.svg"
   />
 
   <img
-    src="https://raw.githubusercontent.com/Abhi2790/Abhi2790/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/Abhi2790/Abhi2790/output/github-snake.svg"
     alt="GitHub Contribution Snake"
     width="100%"
   />
@@ -175,7 +175,6 @@ alt="Abhishek's Tech Stack Mind Map"/>
 </picture>
 
 </div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,50:764ba2,100:667eea&height=120&section=footer"/>
 <div align="center">
 <img 
